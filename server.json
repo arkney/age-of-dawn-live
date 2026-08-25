@@ -1,0 +1,6 @@
+{
+  "url": "wss://epa-fought-annotated-jobs.trycloudflare.com",
+  "updated": "2026-08-25T01:59:38.194Z",
+  "host": "test",
+  "note": "Written by scripts/host.mjs. Clients read this to find the server."
+}
